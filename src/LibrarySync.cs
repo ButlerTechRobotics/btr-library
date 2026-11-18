@@ -55,8 +55,8 @@ namespace BtrLibrary
     /// <summary>
     /// Downloads the parts listed in library.json straight from the vendors into the library folder,
     /// so teammates never have to fetch CAD by hand. Files that already exist are skipped.
-    /// The list comes from Settings.ManifestUrl if set (e.g. a raw GitHub URL), otherwise the
-    /// library.json shipped next to the add-in DLL.
+    /// The list comes from Settings.ManifestUrl if set, otherwise the team list in the btr-library GitHub repo
+    /// (Settings.DefaultManifestUrl), falling back to the library.json shipped next to the DLL when offline.
     /// </summary>
     public static class LibrarySync
     {
@@ -193,23 +193,25 @@ namespace BtrLibrary
 
         private static async Task<(Manifest, string)> LoadManifestAsync(HttpClient http, CancellationToken ct)
         {
+            string custom = Settings.ManifestUrl?.Trim();
+            string url = string.IsNullOrEmpty(custom) ? Settings.DefaultManifestUrl : custom;
             string json;
-            string url = Settings.ManifestUrl;
-            if (!string.IsNullOrWhiteSpace(url))
+            try
             {
                 json = await http.GetStringAsync(url).ConfigureAwait(false);
             }
-            else
+            catch (Exception) when (string.IsNullOrEmpty(custom))
             {
+                // Offline or GitHub unreachable: use the list that shipped with the add-in.
                 string local = Path.Combine(Path.GetDirectoryName(typeof(LibrarySync).Assembly.Location), "library.json");
                 if (!File.Exists(local))
-                    throw new FileNotFoundException("No parts list found. Set a parts list URL or put library.json next to BtrLibrary.dll.");
+                    throw new FileNotFoundException("Couldn't reach the team parts list on GitHub and there's no library.json next to BtrLibrary.dll.");
                 json = File.ReadAllText(local);
+                url = null; // previews then come from the previews folder next to the DLL
             }
 
             using (var ms = new MemoryStream(Encoding.UTF8.GetBytes(json)))
-                return ((Manifest)new DataContractJsonSerializer(typeof(Manifest)).ReadObject(ms),
-                        string.IsNullOrWhiteSpace(url) ? null : url.Trim());
+                return ((Manifest)new DataContractJsonSerializer(typeof(Manifest)).ReadObject(ms), url);
         }
 
         private static async Task DownloadAsync(HttpClient http, string url, string target, CancellationToken ct)

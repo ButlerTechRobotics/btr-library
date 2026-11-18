@@ -837,7 +837,7 @@ namespace BtrLibrary
         private void ChooseManifestUrl()
         {
             string url = Microsoft.VisualBasic.Interaction.InputBox(
-                "URL of the team parts list (library.json), e.g. a raw GitHub link.\n\nLeave empty to use the list that shipped with the add-in.",
+                "URL of a custom parts list (library.json), e.g. a raw GitHub link.\n\nLeave empty to use the team list from the ButlerTechRobotics/btr-library repo on GitHub.",
                 "BTR Library – parts list", Settings.ManifestUrl);
             if (url == null) return;
             Settings.ManifestUrl = url.Trim();

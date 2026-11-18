@@ -41,14 +41,16 @@ After you rebuild, close SOLIDWORKS first, because it locks the DLL. You don't n
 
 ## Parts come pre-loaded (Sync)
 
-Teammates don't download CAD by hand. The add-in ships with a **parts list**
-(`manifest/library.json`). When SOLIDWORKS starts, or when you click **Sync**, the add-in
+Teammates don't download CAD by hand. The team **parts list** is
+[`manifest/library.json`](manifest/library.json) in this repo. When SOLIDWORKS starts, or when you click **Sync**, the add-in reads it from GitHub and
 downloads every listed part it doesn't already have, straight from the vendor, into
 `Documents\BTR Library` (or whatever library folder you've picked). Files that already exist are skipped, so syncing again is fast.
 
 - **Currently included:** 355 parts (about 800 MB of STEP files). Motors and electronics: Kraken X60/X44, NEO Vortex with SPARK Flex, REV PDH, CTRE PDP 2.0, Limelight 4/3G/3. WCP power transmission: 236 gears (aluminum and steel; 1/2" hex, 3/8" hex, SplineXL, SplineXS and motor bores), 38 HTD5/GT2 pulleys, 50 #25/#35 sprockets, 7 flanged bearings and 14 chain parts.
-- **Right-click Sync** to turn auto-sync off, or to point the add-in at a parts list URL. If you
-  host `library.json` on GitHub and set that raw URL once, everyone picks up new parts on their next sync without reinstalling.
+- **Adding parts = a commit.** Add entries to `manifest/library.json` and push to `main`. Everyone picks them up on their
+  next Sync without reinstalling (GitHub's raw file cache can take a few minutes). Shared 3D previews work the same way via `manifest/previews/`.
+- **Offline**, Sync falls back to the copy of `library.json` that was built into the add-in.
+- Use **⋯** to turn auto-sync off, or **⋯ › Set parts list URL…** to point at a different list (empty = this repo's list).
 - If the library is on a shared team drive, only one person has to sync.
 
 Each entry in `library.json` looks like this:

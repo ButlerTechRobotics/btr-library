@@ -26,7 +26,11 @@ namespace BtrLibrary
             set => Set("LibraryRoot", value ?? "");
         }
 
-        /// <summary>Where the parts list comes from (e.g. a raw GitHub URL). Empty = library.json next to the DLL.</summary>
+        /// <summary>The team parts list in the btr-library repo. Commit to it and everyone gets the change on their next Sync.</summary>
+        public const string DefaultManifestUrl =
+            "https://raw.githubusercontent.com/ButlerTechRobotics/btr-library/main/manifest/library.json";
+
+        /// <summary>Custom parts list URL. Empty = <see cref="DefaultManifestUrl"/> (falling back to the copy next to the DLL when offline).</summary>
         public static string ManifestUrl
         {
             get => Get("ManifestUrl") ?? "";

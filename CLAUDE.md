@@ -62,6 +62,9 @@ two monitors (144 and 96 DPI), Avast installed.
   library.json entries (spot-check the URL pattern on other product types first).
 - Display names: `<N>T [Rounded Hex|Pocketed|Pocketed MotionX] Steel Gear (<SKU>)` — category already says 20DP / hex bore.
 - Vendor CAD is linked, not redistributed (sync downloads straight from the vendor).
+- Repo: github.com/ButlerTechRobotics/btr-library (public, `main`). Sync's default list is the raw `main` URL
+  (`Settings.DefaultManifestUrl`); offline it falls back to the library.json next to the DLL. Push with the AydenLo17
+  account (BTR org admin); the default gh account AydenL-3S only has read access to the org.
 - WCP entries were generated from btr-calc `wcp-parts.json` (2026-09-30 data) on 2026-11-18, keeping only SKUs whose
   `wcproducts.info/files/frc/cad/<SKU>.step` answered HTTP 200. That pattern does NOT work for belts (no CAD) or the
   Kraken motors at lowercase .step (they're at uppercase `WCP-0940.STEP`; URLs are case-sensitive). No official SystemCore CAD yet (2026-11-18). In this Git Bash, curl can't do HTTPS (returns 000); use PowerShell Invoke-WebRequest.
@@ -87,4 +90,4 @@ two monitors (144 and 96 DPI), Avast installed.
 ## Ideas queued
 
 FRC generators (box tube with 0.5" hole pattern, hex shaft, belt/chain C-C calculator), favorites/recents,
-generate library.json from btr-calc's WCP data, host library.json in a GitHub repo and point Sync at its raw URL.
+more vendors (REV, Thrifty Bot, Swyft, AndyMark, hardware).
