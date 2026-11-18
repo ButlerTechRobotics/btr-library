@@ -1,0 +1,2 @@
+# Shared 3D previews are gzip data named by content hash: never convert line endings.
+*.mesh binary

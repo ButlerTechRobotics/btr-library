@@ -1,0 +1,6781 @@
+{
+  "version": 1,
+  "name": "BTR Library",
+  "parts": [
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "14T Rounded Hex Steel Gear (WCP-2705)",
+      "sku": "WCP-2705",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2705.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "14t steel spur gear, 20 DP, 1/2\" rounded hex bore, 4140 steel, 16t center distance",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "14t",
+        "wcp-2705",
+        "rounded hex"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "15T Rounded Hex Steel Gear (WCP-2706)",
+      "sku": "WCP-2706",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2706.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "15t steel spur gear, 20 DP, 1/2\" rounded hex bore, 4140 steel, 16t center distance",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "15t",
+        "wcp-2706",
+        "rounded hex"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "16T Rounded Hex Steel Gear (WCP-0290)",
+      "sku": "WCP-0290",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0290.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "16t steel spur gear, 20 DP, 1/2\" rounded hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "16t",
+        "wcp-0290",
+        "rounded hex"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "18T Steel Gear (WCP-0733)",
+      "sku": "WCP-0733",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0733.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "18t steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "18t",
+        "wcp-0733"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "20T Steel Gear (WCP-0734)",
+      "sku": "WCP-0734",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0734.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "20t steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "20t",
+        "wcp-0734"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "22T Steel Gear (WCP-0735)",
+      "sku": "WCP-0735",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0735.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "22t steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "22t",
+        "wcp-0735"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "24T Steel Gear (WCP-0736)",
+      "sku": "WCP-0736",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0736.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "24t steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "24t",
+        "wcp-0736"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "26T Steel Gear (WCP-0737)",
+      "sku": "WCP-0737",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0737.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "26t steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "26t",
+        "wcp-0737"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "28T Steel Gear (WCP-0738)",
+      "sku": "WCP-0738",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0738.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "28t steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "28t",
+        "wcp-0738"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "36T Steel Gear (WCP-0175)",
+      "sku": "WCP-0175",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0175.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "36t steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "36t",
+        "wcp-0175"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "38T Steel Gear (WCP-0176)",
+      "sku": "WCP-0176",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0176.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "38t steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "38t",
+        "wcp-0176"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "30T Pocketed Steel Gear (WCP-0553)",
+      "sku": "WCP-0553",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0553.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "30t pocketed steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "30t",
+        "wcp-0553",
+        "pocketed"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "32T Pocketed Steel Gear (WCP-0554)",
+      "sku": "WCP-0554",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0554.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "32t pocketed steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "32t",
+        "wcp-0554",
+        "pocketed"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "34T Pocketed Steel Gear (WCP-0542)",
+      "sku": "WCP-0542",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0542.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "34t pocketed steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "34t",
+        "wcp-0542",
+        "pocketed"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "36T Pocketed Steel Gear (WCP-0555)",
+      "sku": "WCP-0555",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0555.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "36t pocketed steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "36t",
+        "wcp-0555",
+        "pocketed"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "38T Pocketed Steel Gear (WCP-0556)",
+      "sku": "WCP-0556",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0556.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "38t pocketed steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "38t",
+        "wcp-0556",
+        "pocketed"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "40T Pocketed Steel Gear (WCP-0177)",
+      "sku": "WCP-0177",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0177.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "40t pocketed steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "40t",
+        "wcp-0177",
+        "pocketed"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "42T Pocketed Steel Gear (WCP-0178)",
+      "sku": "WCP-0178",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0178.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "42t pocketed steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "42t",
+        "wcp-0178",
+        "pocketed"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "44T Pocketed Steel Gear (WCP-0179)",
+      "sku": "WCP-0179",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0179.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "44t pocketed steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "44t",
+        "wcp-0179",
+        "pocketed"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "46T Pocketed Steel Gear (WCP-0180)",
+      "sku": "WCP-0180",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0180.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "46t pocketed steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "46t",
+        "wcp-0180",
+        "pocketed"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "48T Pocketed Steel Gear (WCP-0181)",
+      "sku": "WCP-0181",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0181.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "48t pocketed steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "48t",
+        "wcp-0181",
+        "pocketed"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "50T Pocketed Steel Gear (WCP-0182)",
+      "sku": "WCP-0182",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0182.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "50t pocketed steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "50t",
+        "wcp-0182",
+        "pocketed"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "52T Pocketed Steel Gear (WCP-0183)",
+      "sku": "WCP-0183",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0183.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "52t pocketed steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "52t",
+        "wcp-0183",
+        "pocketed"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "58T Pocketed Steel Gear (WCP-0186)",
+      "sku": "WCP-0186",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0186.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "58t pocketed steel spur gear, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "58t",
+        "wcp-0186",
+        "pocketed"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "52T Pocketed MotionX Steel Gear (WCP-1143)",
+      "sku": "WCP-1143",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1143.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "52t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "52t",
+        "wcp-1143",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "54T Pocketed MotionX Steel Gear (WCP-1144)",
+      "sku": "WCP-1144",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1144.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "54t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "54t",
+        "wcp-1144",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "56T Pocketed MotionX Steel Gear (WCP-1145)",
+      "sku": "WCP-1145",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1145.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "56t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "56t",
+        "wcp-1145",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "58T Pocketed MotionX Steel Gear (WCP-1146)",
+      "sku": "WCP-1146",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1146.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "58t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "58t",
+        "wcp-1146",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "60T Pocketed MotionX Steel Gear (WCP-1147)",
+      "sku": "WCP-1147",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1147.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "60t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "60t",
+        "wcp-1147",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "62T Pocketed MotionX Steel Gear (WCP-1148)",
+      "sku": "WCP-1148",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1148.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "62t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "62t",
+        "wcp-1148",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "64T Pocketed MotionX Steel Gear (WCP-1149)",
+      "sku": "WCP-1149",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1149.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "64t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "64t",
+        "wcp-1149",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "66T Pocketed MotionX Steel Gear (WCP-1430)",
+      "sku": "WCP-1430",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1430.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "66t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "66t",
+        "wcp-1430",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "68T Pocketed MotionX Steel Gear (WCP-1431)",
+      "sku": "WCP-1431",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1431.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "68t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "68t",
+        "wcp-1431",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "70T Pocketed MotionX Steel Gear (WCP-1432)",
+      "sku": "WCP-1432",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1432.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "70t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "70t",
+        "wcp-1432",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "72T Pocketed MotionX Steel Gear (WCP-1434)",
+      "sku": "WCP-1434",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1434.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "72t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "72t",
+        "wcp-1434",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "76T Pocketed MotionX Steel Gear (WCP-1435)",
+      "sku": "WCP-1435",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1435.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "76t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "76t",
+        "wcp-1435",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "78T Pocketed MotionX Steel Gear (WCP-1436)",
+      "sku": "WCP-1436",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1436.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "78t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "78t",
+        "wcp-1436",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "80T Pocketed MotionX Steel Gear (WCP-1437)",
+      "sku": "WCP-1437",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1437.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "80t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "80t",
+        "wcp-1437",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "82T Pocketed MotionX Steel Gear (WCP-1438)",
+      "sku": "WCP-1438",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1438.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "82t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "82t",
+        "wcp-1438",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "84T Pocketed MotionX Steel Gear (WCP-1439)",
+      "sku": "WCP-1439",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1439.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "84t pocketed steel spur gear with MotionX, 20 DP, 1/2\" hex bore, 4140 steel",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "hex",
+        "1/2 hex",
+        "84t",
+        "wcp-1439",
+        "pocketed",
+        "motionx"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Bearings/Flanged",
+      "name": "1/2\" Hex x 1.125\" OD Flanged Bearing (WCP-0783)",
+      "sku": "WCP-0783",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0783.step",
+      "description": "0.500\" Hex ID x 1.125\" OD x 0.313\" WD Flanged Bearing",
+      "tags": [
+        "bearing",
+        "flanged",
+        "1/2\" hex",
+        "1/2hex",
+        "1.125 od",
+        "wcp-0783"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Bearings/Flanged",
+      "name": "1/2\" Round x 1.125\" OD Flanged Bearing (WCP-0781)",
+      "sku": "WCP-0781",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0781.step",
+      "description": "0.500\" ID x 1.125\" OD x 0.313\" WD Flanged Bearing",
+      "tags": [
+        "bearing",
+        "flanged",
+        "1/2\" round",
+        "1/2round",
+        "1.125 od",
+        "wcp-0781"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Bearings/Flanged",
+      "name": "1/2\" Rounded Hex x 0.875\" OD Flanged Bearing (WCP-2057)",
+      "sku": "WCP-2057",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2057.step",
+      "description": "13.75mm (1/2\" Rounded Hex) ID x 0.875\" OD x 0.281\" WD Flanged Bearing",
+      "tags": [
+        "bearing",
+        "flanged",
+        "1/2\" rounded hex",
+        "1/2hex-r",
+        "0.875 od",
+        "wcp-2057"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Bearings/Flanged",
+      "name": "1/2\" Rounded Hex x 1.000\" OD Flanged Bearing (WCP-2058)",
+      "sku": "WCP-2058",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2058.step",
+      "description": "13.75mm (1/2\" Rounded Hex) ID x 1.000\" OD x 0.281\" WD Flanged Bearing",
+      "tags": [
+        "bearing",
+        "flanged",
+        "1/2\" rounded hex",
+        "1/2hex-r",
+        "1.0 od",
+        "wcp-2058"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Bearings/Flanged",
+      "name": "1/2\" Rounded Hex x 1.125\" OD Flanged Bearing (WCP-0785)",
+      "sku": "WCP-0785",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0785.step",
+      "description": "13.75mm (1/2\" Rounded Hex) ID x 1.125\" OD x 0.313\" WD Flanged Bearing",
+      "tags": [
+        "bearing",
+        "flanged",
+        "1/2\" rounded hex",
+        "1/2hex-r",
+        "1.125 od",
+        "wcp-0785"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Bearings/Flanged",
+      "name": "3/8\" Round x 1.125\" OD Flanged Bearing (WCP-0780)",
+      "sku": "WCP-0780",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0780.step",
+      "description": "0.375\" ID x 1.125\" OD x 0.313\" WD Flanged Bearing",
+      "tags": [
+        "bearing",
+        "flanged",
+        "3/8\" round",
+        "3/8round",
+        "1.125 od",
+        "wcp-0780"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Bearings/Flanged",
+      "name": "3/8\" Rounded Hex x 0.875\" OD Flanged Bearing (WCP-0784)",
+      "sku": "WCP-0784",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0784.step",
+      "description": "10.25mm (3/8\" Rounded Hex) ID x 0.875\" OD x 0.280\" WD Flanged Bearing",
+      "tags": [
+        "bearing",
+        "flanged",
+        "3/8\" rounded hex",
+        "3/8hex-r",
+        "0.875 od",
+        "wcp-0784"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#25",
+      "name": "#25 1.5 Link (2 Pack) (WCP-0888)",
+      "sku": "WCP-0888",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0888.step",
+      "description": "#25 1.5 Link (2 Pack)",
+      "tags": [
+        "chain",
+        "#25",
+        "25",
+        "onehalf",
+        "wcp-0888"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#25",
+      "name": "#25 Chain TurnBuckle (WCP-0247)",
+      "sku": "WCP-0247",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0247.step",
+      "description": "#25 Chain TurnBuckle",
+      "tags": [
+        "chain",
+        "#25",
+        "25",
+        "turnbuckle",
+        "wcp-0247"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#25",
+      "name": "#25 Half Link (5 Pack) (WCP-0766)",
+      "sku": "WCP-0766",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0766.step",
+      "description": "#25 Half Link (5 Pack)",
+      "tags": [
+        "chain",
+        "#25",
+        "25",
+        "half",
+        "wcp-0766"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#25",
+      "name": "#25 Master Link (5 Pack) (WCP-0765)",
+      "sku": "WCP-0765",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0765.step",
+      "description": "#25 Master Link (5 Pack)",
+      "tags": [
+        "chain",
+        "#25",
+        "25",
+        "master",
+        "wcp-0765"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#25",
+      "name": "#25 Roller Chain (10 feet) (WCP-0764)",
+      "sku": "WCP-0764",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0764.step",
+      "description": "#25 Roller Chain (10 feet)",
+      "tags": [
+        "chain",
+        "#25",
+        "25",
+        "wcp-0764"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#25",
+      "name": "Spartan #25 Chain Tensioner (WCP-0051)",
+      "sku": "WCP-0051",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0051.step",
+      "description": "Spartan #25 Chain Tensioner",
+      "tags": [
+        "chain",
+        "#25",
+        "25",
+        "tensioner",
+        "wcp-0051"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#25H",
+      "name": "#25H Half Link (5 Pack) (WCP-0769)",
+      "sku": "WCP-0769",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0769.step",
+      "description": "#25H Half Link (5 Pack)",
+      "tags": [
+        "chain",
+        "#25h",
+        "25h",
+        "half",
+        "wcp-0769"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#25H",
+      "name": "#25H Master Link (5 Pack) (WCP-0768)",
+      "sku": "WCP-0768",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0768.step",
+      "description": "#25H Master Link (5 Pack)",
+      "tags": [
+        "chain",
+        "#25h",
+        "25h",
+        "master",
+        "wcp-0768"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#25H",
+      "name": "#25H Roller Chain (10 Feet) (WCP-0767)",
+      "sku": "WCP-0767",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0767.step",
+      "description": "#25H Roller Chain (10 Feet)",
+      "tags": [
+        "chain",
+        "#25h",
+        "25h",
+        "wcp-0767"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#35",
+      "name": "#35 Chain TurnBuckle V2 (WCP-0963)",
+      "sku": "WCP-0963",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0963.step",
+      "description": "#35 Chain TurnBuckle V2",
+      "tags": [
+        "chain",
+        "#35",
+        "35",
+        "turnbuckle",
+        "wcp-0963"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#35",
+      "name": "#35 Half Link (5 Pack) (WCP-0772)",
+      "sku": "WCP-0772",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0772.step",
+      "description": "#35 Half Link (5 Pack)",
+      "tags": [
+        "chain",
+        "#35",
+        "35",
+        "half",
+        "wcp-0772"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#35",
+      "name": "#35 Master Link (5 Pack) (WCP-0771)",
+      "sku": "WCP-0771",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0771.step",
+      "description": "#35 Master Link (5 Pack)",
+      "tags": [
+        "chain",
+        "#35",
+        "35",
+        "master",
+        "wcp-0771"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#35",
+      "name": "#35 Roller Chain (10 feet) (WCP-0770)",
+      "sku": "WCP-0770",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0770.step",
+      "description": "#35 Roller Chain (10 feet)",
+      "tags": [
+        "chain",
+        "#35",
+        "35",
+        "wcp-0770"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Chain/#35",
+      "name": "Spartan #35 Chain Tensioner (WCP-0052)",
+      "sku": "WCP-0052",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0052.step",
+      "description": "Spartan #35 Chain Tensioner",
+      "tags": [
+        "chain",
+        "#35",
+        "35",
+        "tensioner",
+        "wcp-0052"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/10DP Steel SplineXS Bore",
+      "name": "10T Thin Steel Gear (WCP-1005)",
+      "sku": "WCP-1005",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1005.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "10t Steel Spur Gear (10 DP, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "10dp",
+        "splinexs",
+        "10t",
+        "thin",
+        "wcp-1005"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "14T Aluminum Gear (WCP-0680)",
+      "sku": "WCP-0680",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0680.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "14t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "14t",
+        "wcp-0680"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "14T Aluminum Gear (WCP-1718)",
+      "sku": "WCP-1718",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1718.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "14t Aluminum Spur Gear (16t Center Distance, 3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "14t",
+        "wcp-1718"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "16T Aluminum Gear (WCP-0681)",
+      "sku": "WCP-0681",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0681.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "16t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "16t",
+        "wcp-0681"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "16T Aluminum Gear (WCP-1720)",
+      "sku": "WCP-1720",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1720.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "16t Aluminum Spur Gear (18t Center Distance, 3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "16t",
+        "wcp-1720"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "18T Aluminum Gear (WCP-0682)",
+      "sku": "WCP-0682",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0682.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "18t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "18t",
+        "wcp-0682"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "20T Aluminum Gear (WCP-0683)",
+      "sku": "WCP-0683",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0683.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "20t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "20t",
+        "wcp-0683"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "22T Aluminum Gear (WCP-0684)",
+      "sku": "WCP-0684",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0684.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "22t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "22t",
+        "wcp-0684"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "24T Aluminum Gear (WCP-0685)",
+      "sku": "WCP-0685",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0685.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "24t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "24t",
+        "wcp-0685"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "26T Aluminum Gear (WCP-0686)",
+      "sku": "WCP-0686",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0686.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "26t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "26t",
+        "wcp-0686"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "28T Aluminum Gear (WCP-0687)",
+      "sku": "WCP-0687",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0687.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "28t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "28t",
+        "wcp-0687"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "30T Aluminum Gear (WCP-0688)",
+      "sku": "WCP-0688",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0688.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "30t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "30t",
+        "wcp-0688"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "32T Aluminum Gear (WCP-0689)",
+      "sku": "WCP-0689",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0689.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "32t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "32t",
+        "wcp-0689"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "34T Aluminum Gear (WCP-0690)",
+      "sku": "WCP-0690",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0690.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "34t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "34t",
+        "wcp-0690"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "36T Aluminum Gear (WCP-0691)",
+      "sku": "WCP-0691",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0691.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "36t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "36t",
+        "wcp-0691"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "38T Aluminum Gear (WCP-0692)",
+      "sku": "WCP-0692",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0692.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "38t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "38t",
+        "wcp-0692"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "40T Aluminum Gear (WCP-0693)",
+      "sku": "WCP-0693",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0693.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "40t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "40t",
+        "wcp-0693"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "42T Aluminum Gear (WCP-0694)",
+      "sku": "WCP-0694",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0694.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "42t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "42t",
+        "wcp-0694"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "44T Aluminum Gear (WCP-0695)",
+      "sku": "WCP-0695",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0695.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "44t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "44t",
+        "wcp-0695"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "46T Aluminum Gear (WCP-0696)",
+      "sku": "WCP-0696",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0696.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "46t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "46t",
+        "wcp-0696"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "48T Aluminum Gear (WCP-0114)",
+      "sku": "WCP-0114",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0114.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "48t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "48t",
+        "wcp-0114"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "50T Aluminum Gear (WCP-0698)",
+      "sku": "WCP-0698",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0698.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "50t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "50t",
+        "wcp-0698"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum 3-8 Hex Bore",
+      "name": "52T Aluminum Gear (WCP-0699)",
+      "sku": "WCP-0699",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0699.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-3-8-hex-bore-gears",
+      "description": "52t Aluminum Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "52t",
+        "wcp-0699"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "18T Aluminum Gear (WCP-0700)",
+      "sku": "WCP-0700",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0700.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "18t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "18t",
+        "wcp-0700"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "20T Aluminum Gear (WCP-0701)",
+      "sku": "WCP-0701",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0701.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "20t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "20t",
+        "wcp-0701"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "22T Aluminum Gear (WCP-0702)",
+      "sku": "WCP-0702",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0702.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "22t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "22t",
+        "wcp-0702"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "24T Aluminum Gear (WCP-0703)",
+      "sku": "WCP-0703",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0703.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "24t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "24t",
+        "wcp-0703"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "26T Aluminum Gear (WCP-0704)",
+      "sku": "WCP-0704",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0704.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "26t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "26t",
+        "wcp-0704"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "28T Aluminum Gear (WCP-0705)",
+      "sku": "WCP-0705",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0705.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "28t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "28t",
+        "wcp-0705"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "30T Aluminum Gear (WCP-0706)",
+      "sku": "WCP-0706",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0706.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "30t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "30t",
+        "wcp-0706"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "32T Aluminum Gear (WCP-0707)",
+      "sku": "WCP-0707",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0707.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "32t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "32t",
+        "wcp-0707"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "34T Aluminum Gear (WCP-0708)",
+      "sku": "WCP-0708",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0708.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "34t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "34t",
+        "wcp-0708"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "36T Aluminum Gear (WCP-0709)",
+      "sku": "WCP-0709",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0709.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "36t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "36t",
+        "wcp-0709"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "38T Aluminum Gear (WCP-0710)",
+      "sku": "WCP-0710",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0710.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "38t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "38t",
+        "wcp-0710"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "40T Aluminum Gear (WCP-0711)",
+      "sku": "WCP-0711",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0711.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "40t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "40t",
+        "wcp-0711"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "40T Pocketed Aluminum Gear (WCP-0116)",
+      "sku": "WCP-0116",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0116.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "40t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "40t",
+        "pocketed",
+        "wcp-0116"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "42T Aluminum Gear (WCP-0712)",
+      "sku": "WCP-0712",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0712.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "42t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "42t",
+        "wcp-0712"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "42T Pocketed Aluminum Gear (WCP-0117)",
+      "sku": "WCP-0117",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0117.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "42t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "42t",
+        "pocketed",
+        "wcp-0117"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "44T Aluminum Gear (WCP-0713)",
+      "sku": "WCP-0713",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0713.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "44t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "44t",
+        "wcp-0713"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "44T Pocketed Aluminum Gear (WCP-0118)",
+      "sku": "WCP-0118",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0118.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "44t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "44t",
+        "pocketed",
+        "wcp-0118"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "46T Aluminum Gear (WCP-0714)",
+      "sku": "WCP-0714",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0714.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "46t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "46t",
+        "wcp-0714"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "46T Pocketed Aluminum Gear (WCP-0136)",
+      "sku": "WCP-0136",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0136.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "46t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "46t",
+        "pocketed",
+        "wcp-0136"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "48T Aluminum Gear (WCP-0188)",
+      "sku": "WCP-0188",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0188.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "48t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "48t",
+        "wcp-0188"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "48T Pocketed Aluminum Gear (WCP-0137)",
+      "sku": "WCP-0137",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0137.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "48t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "48t",
+        "pocketed",
+        "wcp-0137"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "50T Aluminum Gear (WCP-0715)",
+      "sku": "WCP-0715",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0715.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "50t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "50t",
+        "wcp-0715"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "50T Pocketed Aluminum Gear (WCP-0119)",
+      "sku": "WCP-0119",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0119.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "50t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "50t",
+        "pocketed",
+        "wcp-0119"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "52T Aluminum Gear (WCP-0716)",
+      "sku": "WCP-0716",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0716.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "52t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "52t",
+        "wcp-0716"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "52T Pocketed Aluminum Gear (WCP-0138)",
+      "sku": "WCP-0138",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0138.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "52t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "52t",
+        "pocketed",
+        "wcp-0138"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "54T Aluminum Gear (WCP-0717)",
+      "sku": "WCP-0717",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0717.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "54t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "54t",
+        "wcp-0717"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "54T Pocketed Aluminum Gear (WCP-0120)",
+      "sku": "WCP-0120",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0120.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "54t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "54t",
+        "pocketed",
+        "wcp-0120"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "56T Aluminum Gear (WCP-0718)",
+      "sku": "WCP-0718",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0718.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "56t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "56t",
+        "wcp-0718"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "56T Pocketed Aluminum Gear (WCP-0139)",
+      "sku": "WCP-0139",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0139.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "56t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "56t",
+        "pocketed",
+        "wcp-0139"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "58T Aluminum Gear (WCP-0719)",
+      "sku": "WCP-0719",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0719.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "58t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "58t",
+        "wcp-0719"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "58T Pocketed Aluminum Gear (WCP-0140)",
+      "sku": "WCP-0140",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0140.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "58t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "58t",
+        "pocketed",
+        "wcp-0140"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "60T Aluminum Gear (WCP-0720)",
+      "sku": "WCP-0720",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0720.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "60t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "60t",
+        "wcp-0720"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "60T Pocketed Aluminum Gear (WCP-0121)",
+      "sku": "WCP-0121",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0121.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "60t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "60t",
+        "pocketed",
+        "wcp-0121"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "62T Aluminum Gear (WCP-0721)",
+      "sku": "WCP-0721",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0721.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "62t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "62t",
+        "wcp-0721"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "62T Pocketed Aluminum Gear (WCP-0141)",
+      "sku": "WCP-0141",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0141.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "62t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "62t",
+        "pocketed",
+        "wcp-0141"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "64T Aluminum Gear (WCP-0722)",
+      "sku": "WCP-0722",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0722.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "64t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "64t",
+        "wcp-0722"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "64T Pocketed Aluminum Gear (WCP-0122)",
+      "sku": "WCP-0122",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0122.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "64t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "64t",
+        "pocketed",
+        "wcp-0122"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "66T Aluminum Gear (WCP-0171)",
+      "sku": "WCP-0171",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0171.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "66t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "66t",
+        "wcp-0171"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "66T Pocketed Aluminum Gear (WCP-0142)",
+      "sku": "WCP-0142",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0142.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "66t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "66t",
+        "pocketed",
+        "wcp-0142"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "68T Aluminum Gear (WCP-0723)",
+      "sku": "WCP-0723",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0723.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "68t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "68t",
+        "wcp-0723"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "68T Pocketed Aluminum Gear (WCP-0143)",
+      "sku": "WCP-0143",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0143.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "68t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "68t",
+        "pocketed",
+        "wcp-0143"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "70T Aluminum Gear (WCP-0172)",
+      "sku": "WCP-0172",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0172.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "70t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "70t",
+        "wcp-0172"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "70T Pocketed Aluminum Gear (WCP-0144)",
+      "sku": "WCP-0144",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0144.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "70t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "70t",
+        "pocketed",
+        "wcp-0144"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "72T Aluminum Gear (WCP-0724)",
+      "sku": "WCP-0724",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0724.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "72t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "72t",
+        "wcp-0724"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "72T Pocketed Aluminum Gear (WCP-0123)",
+      "sku": "WCP-0123",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0123.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "72t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "72t",
+        "pocketed",
+        "wcp-0123"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "74T Aluminum Gear (WCP-0725)",
+      "sku": "WCP-0725",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0725.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "74t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "74t",
+        "wcp-0725"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "74T Pocketed Aluminum Gear (WCP-0145)",
+      "sku": "WCP-0145",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0145.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "74t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "74t",
+        "pocketed",
+        "wcp-0145"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "76T Aluminum Gear (WCP-0726)",
+      "sku": "WCP-0726",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0726.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "76t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "76t",
+        "wcp-0726"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "76T Pocketed Aluminum Gear (WCP-0146)",
+      "sku": "WCP-0146",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0146.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "76t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "76t",
+        "pocketed",
+        "wcp-0146"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "78T Aluminum Gear (WCP-0727)",
+      "sku": "WCP-0727",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0727.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "78t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "78t",
+        "wcp-0727"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "78T Pocketed Aluminum Gear (WCP-0147)",
+      "sku": "WCP-0147",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0147.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "78t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "78t",
+        "pocketed",
+        "wcp-0147"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "80T Aluminum Gear (WCP-0728)",
+      "sku": "WCP-0728",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0728.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "80t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "80t",
+        "wcp-0728"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "80T Pocketed Aluminum Gear (WCP-0148)",
+      "sku": "WCP-0148",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0148.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "80t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "80t",
+        "pocketed",
+        "wcp-0148"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "82T Aluminum Gear (WCP-0729)",
+      "sku": "WCP-0729",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0729.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "82t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "82t",
+        "wcp-0729"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "82T Pocketed Aluminum Gear (WCP-0149)",
+      "sku": "WCP-0149",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0149.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "82t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "82t",
+        "pocketed",
+        "wcp-0149"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "84T Aluminum Gear (WCP-0730)",
+      "sku": "WCP-0730",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0730.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-gears",
+      "description": "84t Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "84t",
+        "wcp-0730"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum Hex Bore",
+      "name": "84T Pocketed Aluminum Gear (WCP-0124)",
+      "sku": "WCP-0124",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0124.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-hex-bore-pocketed-gears",
+      "description": "84t Pocketed Aluminum Spur Gear (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "84t",
+        "pocketed",
+        "wcp-0124"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "34T Aluminum Gear (WCP-1191)",
+      "sku": "WCP-1191",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1191.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "34t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "34t",
+        "wcp-1191"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "36T Aluminum Gear (WCP-1192)",
+      "sku": "WCP-1192",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1192.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "36t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "36t",
+        "wcp-1192"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "38T Aluminum Gear (WCP-1193)",
+      "sku": "WCP-1193",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1193.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "38t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "38t",
+        "wcp-1193"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "40T Aluminum Gear (WCP-1194)",
+      "sku": "WCP-1194",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1194.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "40t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "40t",
+        "wcp-1194"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "42T Aluminum Gear (WCP-1195)",
+      "sku": "WCP-1195",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1195.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "42t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "42t",
+        "wcp-1195"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "44T Aluminum Gear (WCP-1196)",
+      "sku": "WCP-1196",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1196.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "44t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "44t",
+        "wcp-1196"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "46T Aluminum Gear (WCP-1197)",
+      "sku": "WCP-1197",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1197.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "46t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "46t",
+        "wcp-1197"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "48T Aluminum Gear (WCP-1198)",
+      "sku": "WCP-1198",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1198.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "48t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "48t",
+        "wcp-1198"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "50T Aluminum Gear (WCP-1199)",
+      "sku": "WCP-1199",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1199.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "50t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "50t",
+        "wcp-1199"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "52T Aluminum Gear (WCP-1200)",
+      "sku": "WCP-1200",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1200.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "52t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "52t",
+        "wcp-1200"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "54T Aluminum Gear (WCP-1201)",
+      "sku": "WCP-1201",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1201.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "54t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "54t",
+        "wcp-1201"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "56T Aluminum Gear (WCP-1202)",
+      "sku": "WCP-1202",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1202.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "56t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "56t",
+        "wcp-1202"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "58T Aluminum Gear (WCP-1203)",
+      "sku": "WCP-1203",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1203.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "58t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "58t",
+        "wcp-1203"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "60T Aluminum Gear (WCP-1204)",
+      "sku": "WCP-1204",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1204.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "60t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "60t",
+        "wcp-1204"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "62T Aluminum Gear (WCP-1205)",
+      "sku": "WCP-1205",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1205.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "62t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "62t",
+        "wcp-1205"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "64T Aluminum Gear (WCP-1206)",
+      "sku": "WCP-1206",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1206.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "64t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "64t",
+        "wcp-1206"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "66T Aluminum Gear (WCP-1207)",
+      "sku": "WCP-1207",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1207.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "66t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "66t",
+        "wcp-1207"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "68T Aluminum Gear (WCP-1208)",
+      "sku": "WCP-1208",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1208.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "68t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "68t",
+        "wcp-1208"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "70T Aluminum Gear (WCP-1209)",
+      "sku": "WCP-1209",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1209.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "70t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "70t",
+        "wcp-1209"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "72T Aluminum Gear (WCP-1210)",
+      "sku": "WCP-1210",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1210.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "72t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "72t",
+        "wcp-1210"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "74T Aluminum Gear (WCP-1211)",
+      "sku": "WCP-1211",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1211.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "74t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "74t",
+        "wcp-1211"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "76T Aluminum Gear (WCP-1212)",
+      "sku": "WCP-1212",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1212.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "76t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "76t",
+        "wcp-1212"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "78T Aluminum Gear (WCP-1213)",
+      "sku": "WCP-1213",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1213.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "78t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "78t",
+        "wcp-1213"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "80T Aluminum Gear (WCP-1214)",
+      "sku": "WCP-1214",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1214.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "80t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "80t",
+        "wcp-1214"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "82T Aluminum Gear (WCP-1215)",
+      "sku": "WCP-1215",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1215.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "82t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "82t",
+        "wcp-1215"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Aluminum SplineXL Bore",
+      "name": "84T Aluminum Gear (WCP-1216)",
+      "sku": "WCP-1216",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1216.step",
+      "productUrl": "https://wcproducts.com/products/aluminum-splinexl-gears",
+      "description": "84t Aluminum Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "aluminum",
+        "20dp",
+        "splinexl",
+        "84t",
+        "wcp-1216"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "14T Steel Gear (WCP-0731)",
+      "sku": "WCP-0731",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0731.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "14t Steel Spur Gear (20 DP, 3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "14t",
+        "wcp-0731"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "14T Steel Gear (WCP-1717)",
+      "sku": "WCP-1717",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1717.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "14t Steel Spur Gear (20 DP, 16t Center Distance, 3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "14t",
+        "wcp-1717"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "16T Steel Gear (WCP-0732)",
+      "sku": "WCP-0732",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0732.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "16t Steel Spur Gear (20 DP, 3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "16t",
+        "wcp-0732"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "16T Steel Gear (WCP-1719)",
+      "sku": "WCP-1719",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1719.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "16t Steel Spur Gear (20 DP, 18t Center Distance, 3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "16t",
+        "wcp-1719"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "18T Steel Gear (WCP-0432)",
+      "sku": "WCP-0432",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0432.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "18t Steel Spur Gear (20 DP, 3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "18t",
+        "wcp-0432"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "20T Steel Gear (WCP-0433)",
+      "sku": "WCP-0433",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0433.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "20t Steel Spur Gear (20 DP, 3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "20t",
+        "wcp-0433"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "22T Steel Gear (WCP-0434)",
+      "sku": "WCP-0434",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0434.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "22t Steel Spur Gear (20 DP, 3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "22t",
+        "wcp-0434"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "24T Steel Gear (WCP-0538)",
+      "sku": "WCP-0538",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0538.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "24t Steel Spur Gear (20 DP, 3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "24t",
+        "wcp-0538"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "26T Pocketed Steel Gear (WCP-0539)",
+      "sku": "WCP-0539",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0539.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "26t Pocketed Steel Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "26t",
+        "pocketed",
+        "wcp-0539"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "28T Pocketed Steel Gear (WCP-0546)",
+      "sku": "WCP-0546",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0546.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "28t Pocketed Steel Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "28t",
+        "pocketed",
+        "wcp-0546"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "30T Pocketed Steel Gear (WCP-0547)",
+      "sku": "WCP-0547",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0547.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "30t Pocketed Steel Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "30t",
+        "pocketed",
+        "wcp-0547"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "32T Pocketed Steel Gear (WCP-0540)",
+      "sku": "WCP-0540",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0540.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "32t Pocketed Steel Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "32t",
+        "pocketed",
+        "wcp-0540"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "34T Pocketed Steel Gear (WCP-0548)",
+      "sku": "WCP-0548",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0548.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "34t Pocketed Steel Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "34t",
+        "pocketed",
+        "wcp-0548"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "36T Pocketed Steel Gear (WCP-0549)",
+      "sku": "WCP-0549",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0549.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "36t Pocketed Steel Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "36t",
+        "pocketed",
+        "wcp-0549"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "38T Pocketed Steel Gear (WCP-0550)",
+      "sku": "WCP-0550",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0550.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "38t Pocketed Steel Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "38t",
+        "pocketed",
+        "wcp-0550"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "40T Pocketed Steel Gear (WCP-0551)",
+      "sku": "WCP-0551",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0551.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "40t Pocketed Steel Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "40t",
+        "pocketed",
+        "wcp-0551"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel 3-8 Hex Bore",
+      "name": "42T Pocketed Steel Gear (WCP-0541)",
+      "sku": "WCP-0541",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0541.step",
+      "productUrl": "https://wcproducts.com/products/steel-3-8-hex-bore-gears",
+      "description": "42t Pocketed Steel Spur Gear (3/8\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "3/8\" hex",
+        "3/8hex",
+        "42t",
+        "pocketed",
+        "wcp-0541"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Hex Bore",
+      "name": "72T Pocketed MotionX Steel Gear (WCP-1433)",
+      "sku": "WCP-1433",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1433.step",
+      "productUrl": "https://wcproducts.com/products/steel-hex-bore-gears",
+      "description": "72t Pocketed Steel Spur Gear with MotionX (1/2\" Hex Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "1/2\" hex",
+        "1/2hex",
+        "72t",
+        "pocketed",
+        "motionx",
+        "wcp-1433"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "6T Steel Gear, BAG (WCP-0904)",
+      "sku": "WCP-0904",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0904.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "6t Steel Spur Gear (8t Center Distance, BAG Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "bag",
+        "6t",
+        "wcp-0904"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "6T Steel Gear, RS550/775 (WCP-1150)",
+      "sku": "WCP-1150",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1150.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "6t Steel Spur Gear (8t Center Distance, RS550/775 Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "rs550/775",
+        "6t",
+        "wcp-1150"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "8T Steel Gear, BAG (WCP-0905)",
+      "sku": "WCP-0905",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0905.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "8t Steel Spur Gear (10t Center Distance, BAG Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "bag",
+        "8t",
+        "wcp-0905"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "8T Steel Gear, Falcon (WCP-0489)",
+      "sku": "WCP-0489",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0489.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "8t Steel Spur Gear (10t Center Distance, Falcon Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "falcon",
+        "8t",
+        "wcp-0489"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "8T Steel Gear, RS550/775 (WCP-1151)",
+      "sku": "WCP-1151",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1151.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "8t Steel Spur Gear (10t Center Distance, RS550/775 Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "rs550/775",
+        "8t",
+        "wcp-1151"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "9T Steel Gear, 8mm Round (WCP-0898)",
+      "sku": "WCP-0898",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0898.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "9t Steel Spur Gear (10t Center Distance, 8mm Round Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "8mm round",
+        "8mmround",
+        "9t",
+        "wcp-0898"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "9T Steel Gear, Falcon (WCP-0490)",
+      "sku": "WCP-0490",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0490.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "9t Steel Spur Gear (10t Center Distance, Falcon Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "falcon",
+        "9t",
+        "wcp-0490"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "10T Steel Gear, 8mm Key (WCP-0899)",
+      "sku": "WCP-0899",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0899.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "10t Steel Spur Gear (12t Center Distance, 8mm Key Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "8mm key",
+        "8mmkey",
+        "10t",
+        "wcp-0899"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "10T Steel Gear, Falcon (WCP-0491)",
+      "sku": "WCP-0491",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0491.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "10t Steel Spur Gear (12t Center Distance, Falcon Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "falcon",
+        "10t",
+        "wcp-0491"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "11T Steel Gear, 8mm Key (WCP-0900)",
+      "sku": "WCP-0900",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0900.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "11t Steel Spur Gear (12t Center Distance, 8mm Key Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "8mm key",
+        "8mmkey",
+        "11t",
+        "wcp-0900"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "11T Steel Gear, Falcon (WCP-0492)",
+      "sku": "WCP-0492",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0492.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "11t Steel Spur Gear (12t Center Distance, Falcon Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "falcon",
+        "11t",
+        "wcp-0492"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "12T Steel Gear, 8mm Key (WCP-0901)",
+      "sku": "WCP-0901",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0901.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "12t Steel Spur Gear (8mm Key Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "8mm key",
+        "8mmkey",
+        "12t",
+        "wcp-0901"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "12T Steel Gear, 8mm Key (WCP-1136)",
+      "sku": "WCP-1136",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1136.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "12t Steel Spur Gear (14t Center Distance, 8mm Key Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "8mm key",
+        "8mmkey",
+        "12t",
+        "wcp-1136"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "12T Steel Gear, Falcon (WCP-0493)",
+      "sku": "WCP-0493",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0493.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "12t Steel Spur Gear (Falcon Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "falcon",
+        "12t",
+        "wcp-0493"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "13T Steel Gear, 8mm Key (WCP-0902)",
+      "sku": "WCP-0902",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0902.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "13t Steel Spur Gear (14t Center Distance, 8mm Key Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "8mm key",
+        "8mmkey",
+        "13t",
+        "wcp-0902"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "13T Steel Gear, Falcon (WCP-0494)",
+      "sku": "WCP-0494",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0494.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "13t Steel Spur Gear (14t Center Distance, Falcon Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "falcon",
+        "13t",
+        "wcp-0494"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "14T Steel Gear, 8mm Key (WCP-0903)",
+      "sku": "WCP-0903",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0903.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "14t Steel Spur Gear (8mm Key Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "8mm key",
+        "8mmkey",
+        "14t",
+        "wcp-0903"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "14T Steel Gear, 8mm Key (WCP-1234)",
+      "sku": "WCP-1234",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1234.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "14t Steel Spur Gear (16t Center Distance, 8mm Key Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "8mm key",
+        "8mmkey",
+        "14t",
+        "wcp-1234"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "14T Steel Gear, Falcon (WCP-0495)",
+      "sku": "WCP-0495",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0495.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "14t Steel Spur Gear (Falcon Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "falcon",
+        "14t",
+        "wcp-0495"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "15T Steel Gear, 8mm Key (WCP-1235)",
+      "sku": "WCP-1235",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1235.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "15t Steel Spur Gear (16t Center Distance, 8mm Key Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "8mm key",
+        "8mmkey",
+        "15t",
+        "wcp-1235"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel Motor Bore",
+      "name": "16T Steel Gear, 8mm Key (WCP-1236)",
+      "sku": "WCP-1236",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1236.step",
+      "productUrl": "https://wcproducts.com/products/20dp-motor-gears",
+      "description": "16t Steel Spur Gear (8mm Key Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "8mm key",
+        "8mmkey",
+        "16t",
+        "wcp-1236"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "34T Steel Gear (WCP-1082)",
+      "sku": "WCP-1082",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1082.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "34t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "34t",
+        "wcp-1082"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "36T Steel Gear (WCP-1083)",
+      "sku": "WCP-1083",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1083.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "36t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "36t",
+        "wcp-1083"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "38T Steel Gear (WCP-1084)",
+      "sku": "WCP-1084",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1084.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "38t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "38t",
+        "wcp-1084"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "40T Steel Gear (WCP-1085)",
+      "sku": "WCP-1085",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1085.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "40t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "40t",
+        "wcp-1085"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "42T Steel Gear (WCP-1086)",
+      "sku": "WCP-1086",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1086.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "42t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "42t",
+        "wcp-1086"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "44T Steel Gear (WCP-1087)",
+      "sku": "WCP-1087",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1087.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "44t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "44t",
+        "wcp-1087"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "46T Steel Gear (WCP-1088)",
+      "sku": "WCP-1088",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1088.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "46t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "46t",
+        "wcp-1088"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "48T Steel Gear (WCP-1089)",
+      "sku": "WCP-1089",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1089.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "48t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "48t",
+        "wcp-1089"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "50T Steel Gear (WCP-1090)",
+      "sku": "WCP-1090",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1090.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "50t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "50t",
+        "wcp-1090"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "52T Steel Gear (WCP-1091)",
+      "sku": "WCP-1091",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1091.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "52t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "52t",
+        "wcp-1091"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "54T Steel Gear (WCP-1092)",
+      "sku": "WCP-1092",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1092.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "54t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "54t",
+        "wcp-1092"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "56T Steel Gear (WCP-1093)",
+      "sku": "WCP-1093",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1093.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "56t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "56t",
+        "wcp-1093"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "58T Steel Gear (WCP-1094)",
+      "sku": "WCP-1094",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1094.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "58t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "58t",
+        "wcp-1094"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "60T Steel Gear (WCP-1095)",
+      "sku": "WCP-1095",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1095.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "60t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "60t",
+        "wcp-1095"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "62T Steel Gear (WCP-1096)",
+      "sku": "WCP-1096",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1096.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "62t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "62t",
+        "wcp-1096"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "64T Steel Gear (WCP-1097)",
+      "sku": "WCP-1097",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1097.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "64t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "64t",
+        "wcp-1097"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "66T Steel Gear (WCP-1098)",
+      "sku": "WCP-1098",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1098.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "66t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "66t",
+        "wcp-1098"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "68T Steel Gear (WCP-1099)",
+      "sku": "WCP-1099",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1099.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "68t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "68t",
+        "wcp-1099"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "70T Steel Gear (WCP-1100)",
+      "sku": "WCP-1100",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1100.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "70t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "70t",
+        "wcp-1100"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "72T Steel Gear (WCP-1101)",
+      "sku": "WCP-1101",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1101.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "72t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "72t",
+        "wcp-1101"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "74T Steel Gear (WCP-1102)",
+      "sku": "WCP-1102",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1102.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "74t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "74t",
+        "wcp-1102"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "76T Steel Gear (WCP-1103)",
+      "sku": "WCP-1103",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1103.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "76t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "76t",
+        "wcp-1103"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "78T Steel Gear (WCP-1104)",
+      "sku": "WCP-1104",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1104.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "78t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "78t",
+        "wcp-1104"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "80T Steel Gear (WCP-1105)",
+      "sku": "WCP-1105",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1105.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "80t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "80t",
+        "wcp-1105"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "82T Steel Gear (WCP-1106)",
+      "sku": "WCP-1106",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1106.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "82t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "82t",
+        "wcp-1106"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXL Bore",
+      "name": "84T Steel Gear (WCP-1107)",
+      "sku": "WCP-1107",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1107.step",
+      "productUrl": "https://wcproducts.com/products/steel-splinexl-gears",
+      "description": "84t Steel Spur Gear (SplineXL Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexl",
+        "84t",
+        "wcp-1107"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "8T Steel Gear (WCP-1345)",
+      "sku": "WCP-1345",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1345.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "8t x 1/2\" Wide Steel Spur Gear (10t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "8t",
+        "wcp-1345"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "8T Thin Steel Gear (WCP-1006)",
+      "sku": "WCP-1006",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1006.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "8t Steel Spur Gear (10t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "8t",
+        "thin",
+        "wcp-1006"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "9T Steel Gear (WCP-1346)",
+      "sku": "WCP-1346",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1346.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "9t x 1/2\" Wide Steel Spur Gear (10t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "9t",
+        "wcp-1346"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "9T Thin Steel Gear (WCP-1007)",
+      "sku": "WCP-1007",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1007.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "9t Steel Spur Gear (10t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "9t",
+        "thin",
+        "wcp-1007"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "10T Steel Gear (WCP-1347)",
+      "sku": "WCP-1347",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1347.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "10t x 1/2\" Wide Steel Spur Gear (12t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "10t",
+        "wcp-1347"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "10T Thin Steel Gear (WCP-1008)",
+      "sku": "WCP-1008",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1008.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "10t Steel Spur Gear (12t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "10t",
+        "thin",
+        "wcp-1008"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "11T Steel Gear (WCP-1348)",
+      "sku": "WCP-1348",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1348.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "11t x 1/2\" Wide Steel Spur Gear (12t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "11t",
+        "wcp-1348"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "11T Thin Steel Gear (WCP-1009)",
+      "sku": "WCP-1009",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1009.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "11t Steel Spur Gear (12t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "11t",
+        "thin",
+        "wcp-1009"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "12T Steel Gear (WCP-1349)",
+      "sku": "WCP-1349",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1349.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "12t x 1/2\" Wide Steel Spur Gear (14t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "12t",
+        "wcp-1349"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "12T Steel Gear (WCP-1350)",
+      "sku": "WCP-1350",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1350.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "12t x 1/2\" Wide Steel Spur Gear (8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "12t",
+        "wcp-1350"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "12T Thin Steel Gear (WCP-1010)",
+      "sku": "WCP-1010",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1010.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "12t Steel Spur Gear (8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "12t",
+        "thin",
+        "wcp-1010"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "12T Thin Steel Gear (WCP-1011)",
+      "sku": "WCP-1011",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1011.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "12t Steel Spur Gear (14t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "12t",
+        "thin",
+        "wcp-1011"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "13T Steel Gear (WCP-1351)",
+      "sku": "WCP-1351",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1351.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "13t x 1/2\" Wide Steel Spur Gear (14t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "13t",
+        "wcp-1351"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "13T Thin Steel Gear (WCP-1012)",
+      "sku": "WCP-1012",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1012.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "13t Steel Spur Gear (14t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "13t",
+        "thin",
+        "wcp-1012"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "14T Steel Gear (WCP-1352)",
+      "sku": "WCP-1352",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1352.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "14t x 1/2\" Wide Steel Spur Gear (16t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "14t",
+        "wcp-1352"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "14T Steel Gear (WCP-1353)",
+      "sku": "WCP-1353",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1353.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "14t x 1/2\" Wide Steel Spur Gear (8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "14t",
+        "wcp-1353"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "14T Thin Steel Gear (WCP-1013)",
+      "sku": "WCP-1013",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1013.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "14t Steel Spur Gear (8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "14t",
+        "thin",
+        "wcp-1013"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "14T Thin Steel Gear (WCP-1014)",
+      "sku": "WCP-1014",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1014.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "14t Steel Spur Gear (16t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "14t",
+        "thin",
+        "wcp-1014"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "15T Steel Gear (WCP-1382)",
+      "sku": "WCP-1382",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1382.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "15t x 1/2\" Wide Steel Spur Gear (16t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "15t",
+        "wcp-1382"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "15T Thin Steel Gear (WCP-1015)",
+      "sku": "WCP-1015",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1015.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "15t Steel Spur Gear (16t Center Distance, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "15t",
+        "thin",
+        "wcp-1015"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "16T Steel Gear (WCP-1383)",
+      "sku": "WCP-1383",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1383.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "16t x 1/2\" Wide Steel Spur Gear (8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "16t",
+        "wcp-1383"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "16T Thin Steel Gear (WCP-1016)",
+      "sku": "WCP-1016",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1016.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "16t Steel Spur Gear (8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "16t",
+        "thin",
+        "wcp-1016"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "18T Steel Gear (WCP-1384)",
+      "sku": "WCP-1384",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1384.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "18t x 1/2\" Wide Steel Spur Gear (8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "18t",
+        "wcp-1384"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "20T Steel Gear (WCP-1385)",
+      "sku": "WCP-1385",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1385.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "20t x 1/2\" Wide Steel Spur Gear (8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "20t",
+        "wcp-1385"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "22T Steel Gear (WCP-1386)",
+      "sku": "WCP-1386",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1386.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "22t x 1/2\" Wide Steel Spur Gear (8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "22t",
+        "wcp-1386"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/20DP Steel SplineXS Bore",
+      "name": "24T Steel Gear (WCP-1387)",
+      "sku": "WCP-1387",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1387.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "24t x 1/2\" Wide Steel Spur Gear (8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "20dp",
+        "splinexs",
+        "24t",
+        "wcp-1387"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Gears/32DP Steel SplineXS Bore",
+      "name": "15T Thin Steel Gear (WCP-1464)",
+      "sku": "WCP-1464",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1464.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-bore-gears",
+      "description": "15t Steel Spur Gear (32 DP, 8mm SplineXS Bore)",
+      "tags": [
+        "gear",
+        "spur",
+        "steel",
+        "32dp",
+        "splinexs",
+        "15t",
+        "thin",
+        "wcp-1464"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/GT2 9mm Wide",
+      "name": "12T GT2 Pulley, RS550 (WCP-0614)",
+      "sku": "WCP-0614",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0614.step",
+      "productUrl": "https://wcproducts.com/products/gt2-timing-pulleys-belts",
+      "description": "12t x 9mm Wide Aluminum Pulley (GT2 3mm, RS550 Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "gt2",
+        "9mm",
+        "rs550",
+        "12t",
+        "wcp-0614"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/GT2 9mm Wide",
+      "name": "12T GT2 Pulley, RS775 (WCP-0616)",
+      "sku": "WCP-0616",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0616.step",
+      "productUrl": "https://wcproducts.com/products/gt2-timing-pulleys-belts",
+      "description": "12t x 9mm Wide Aluminum Pulley (GT2 3mm, RS775 Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "gt2",
+        "9mm",
+        "rs775",
+        "12t",
+        "wcp-0616"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/GT2 9mm Wide",
+      "name": "16T GT2 Pulley, Falcon (WCP-0603)",
+      "sku": "WCP-0603",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0603.step",
+      "productUrl": "https://wcproducts.com/products/gt2-timing-pulleys-belts",
+      "description": "16t x 9mm Wide Aluminum Pulley (GT2 3mm, Falcon Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "gt2",
+        "9mm",
+        "falcon",
+        "16t",
+        "wcp-0603"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/GT2 9mm Wide",
+      "name": "16T GT2 Pulley, SplineXS (WCP-1178)",
+      "sku": "WCP-1178",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1178.step",
+      "productUrl": "https://wcproducts.com/products/gt2-timing-pulleys-belts",
+      "description": "16t x 9mm Wide Aluminum Pulley (GT2 3mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "gt2",
+        "9mm",
+        "splinexs",
+        "16t",
+        "wcp-1178"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/GT2 9mm Wide",
+      "name": "24T GT2 Pulley, 1/2\" Hex (WCP-0662)",
+      "sku": "WCP-0662",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0662.step",
+      "productUrl": "https://wcproducts.com/products/gt2-timing-pulleys-belts",
+      "description": "24t x 9mm Wide Aluminum Pulley (GT2 3mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "gt2",
+        "9mm",
+        "1/2\" hex",
+        "1/2hex",
+        "24t",
+        "wcp-0662"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/GT2 9mm Wide",
+      "name": "36T GT2 Pulley, 1/2\" Hex (WCP-0663)",
+      "sku": "WCP-0663",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0663.step",
+      "productUrl": "https://wcproducts.com/products/gt2-timing-pulleys-belts",
+      "description": "36t x 9mm Wide Aluminum Pulley (GT2 3mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "gt2",
+        "9mm",
+        "1/2\" hex",
+        "1/2hex",
+        "36t",
+        "wcp-0663"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/GT2 9mm Wide",
+      "name": "48T GT2 Pulley, 1/2\" Hex (WCP-0664)",
+      "sku": "WCP-0664",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0664.step",
+      "productUrl": "https://wcproducts.com/products/gt2-timing-pulleys-belts",
+      "description": "48t x 9mm Wide Aluminum Pulley (GT2 3mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "gt2",
+        "9mm",
+        "1/2\" hex",
+        "1/2hex",
+        "48t",
+        "wcp-0664"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/GT2 9mm Wide",
+      "name": "60T GT2 Pulley, 1/2\" Hex (WCP-0665)",
+      "sku": "WCP-0665",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0665.step",
+      "productUrl": "https://wcproducts.com/products/gt2-timing-pulleys-belts",
+      "description": "60t x 9mm Wide Aluminum Pulley (GT2 3mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "gt2",
+        "9mm",
+        "1/2\" hex",
+        "1/2hex",
+        "60t",
+        "wcp-0665"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/GT2 15mm Wide",
+      "name": "16T GT2 Pulley, Falcon (WCP-0318)",
+      "sku": "WCP-0318",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0318.step",
+      "productUrl": "https://wcproducts.com/products/gt2-timing-pulleys-belts",
+      "description": "16t x 15mm Wide Aluminum Pulley (GT2 3mm, Falcon Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "gt2",
+        "15mm",
+        "falcon",
+        "16t",
+        "wcp-0318"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/GT2 15mm Wide",
+      "name": "16T GT2 Pulley, SplineXS (WCP-1179)",
+      "sku": "WCP-1179",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1179.step",
+      "productUrl": "https://wcproducts.com/products/gt2-timing-pulleys-belts",
+      "description": "16t x 15mm Wide Aluminum Pulley (GT2 3mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "gt2",
+        "15mm",
+        "splinexs",
+        "16t",
+        "wcp-1179"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "12T HTD5 Pulley, 8mm Key (WCP-0076)",
+      "sku": "WCP-0076",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0076.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "12t x 9mm Wide Aluminum Pulley (HTD 5mm, 8mm Key Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "8mm key",
+        "8mmkey",
+        "12t",
+        "wcp-0076"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "12T HTD5 Pulley, Falcon (WCP-0454)",
+      "sku": "WCP-0454",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0454.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "12t x 9mm Wide Aluminum Pulley (HTD 5mm, Falcon Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "falcon",
+        "12t",
+        "wcp-0454"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "12T HTD5 Pulley, SplineXS (WCP-1017)",
+      "sku": "WCP-1017",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1017.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "12t x 9mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "splinexs",
+        "12t",
+        "wcp-1017"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "12T HTD5 Pulley, SplineXS (WCP-2576)",
+      "sku": "WCP-2576",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2576.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-htd-timing-pulleys",
+      "description": "12t x 9mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "splinexs",
+        "12t",
+        "wcp-2576"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "15T HTD5 Pulley, 1/2\" Hex (WCP-1420)",
+      "sku": "WCP-1420",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1420.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "15t x 9mm Wide Aluminum Pulley (HTD 5mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "1/2\" hex",
+        "1/2hex",
+        "15t",
+        "wcp-1420"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "15T HTD5 Pulley, SplineXS (WCP-2253)",
+      "sku": "WCP-2253",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2253.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-htd-timing-pulleys",
+      "description": "15t x 9mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "splinexs",
+        "15t",
+        "wcp-2253"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "18T HTD5 Pulley, 1/2\" Hex (WCP-0563)",
+      "sku": "WCP-0563",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0563.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "18t x 9mm Wide Aluminum Pulley (HTD 5mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "1/2\" hex",
+        "1/2hex",
+        "18t",
+        "wcp-0563"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "20T HTD5 Pulley, SplineXS (WCP-2254)",
+      "sku": "WCP-2254",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2254.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-htd-timing-pulleys",
+      "description": "20t x 9mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "splinexs",
+        "20t",
+        "wcp-2254"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "24T HTD5 Pulley, 1/2\" Hex (WCP-0564)",
+      "sku": "WCP-0564",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0564.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "24t x 9mm Wide Aluminum Pulley (HTD 5mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "1/2\" hex",
+        "1/2hex",
+        "24t",
+        "wcp-0564"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "24T HTD5 Pulley, SplineXS (WCP-2255)",
+      "sku": "WCP-2255",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2255.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-htd-timing-pulleys",
+      "description": "24t x 9mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "splinexs",
+        "24t",
+        "wcp-2255"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "30T HTD5 Pulley, 1/2\" Hex (WCP-0565)",
+      "sku": "WCP-0565",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0565.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "30t x 9mm Wide Aluminum Pulley (HTD 5mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "1/2\" hex",
+        "1/2hex",
+        "30t",
+        "wcp-0565"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "30T HTD5 Pulley, SplineXS (WCP-2256)",
+      "sku": "WCP-2256",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2256.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-htd-timing-pulleys",
+      "description": "30t x 9mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "splinexs",
+        "30t",
+        "wcp-2256"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "36T HTD5 Pulley, 1/2\" Hex (WCP-0990)",
+      "sku": "WCP-0990",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0990.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "36t x 9mm Wide Aluminum Pulley (HTD 5mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "1/2\" hex",
+        "1/2hex",
+        "36t",
+        "wcp-0990"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 9mm Wide",
+      "name": "36T HTD5 Pulley, SplineXS (WCP-2257)",
+      "sku": "WCP-2257",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2257.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-htd-timing-pulleys",
+      "description": "36t x 9mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "9mm",
+        "splinexs",
+        "36t",
+        "wcp-2257"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "12T HTD5 Pulley, 8mm Key (WCP-0077)",
+      "sku": "WCP-0077",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0077.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "12t x 15mm Wide Aluminum Pulley (HTD 5mm, 8mm Key Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "8mm key",
+        "8mmkey",
+        "12t",
+        "wcp-0077"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "12T HTD5 Pulley, Falcon (WCP-0319)",
+      "sku": "WCP-0319",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0319.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "12t x 15mm Wide Aluminum Pulley (HTD 5mm, Falcon Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "falcon",
+        "12t",
+        "wcp-0319"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "12T HTD5 Pulley, SplineXS (WCP-1018)",
+      "sku": "WCP-1018",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1018.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "12t x 15mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "splinexs",
+        "12t",
+        "wcp-1018"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "12T HTD5 Pulley, SplineXS (WCP-2577)",
+      "sku": "WCP-2577",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2577.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-htd-timing-pulleys",
+      "description": "12t x 15mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "splinexs",
+        "12t",
+        "wcp-2577"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "15T HTD5 Pulley, 1/2\" Hex (WCP-0562)",
+      "sku": "WCP-0562",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0562.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "15t x 15mm Wide Aluminum Pulley (HTD 5mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "1/2\" hex",
+        "1/2hex",
+        "15t",
+        "wcp-0562"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "15T HTD5 Pulley, SplineXS (WCP-2258)",
+      "sku": "WCP-2258",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2258.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-htd-timing-pulleys",
+      "description": "15t x 15mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "splinexs",
+        "15t",
+        "wcp-2258"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "18T HTD5 Pulley, 1/2\" Hex (WCP-0991)",
+      "sku": "WCP-0991",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0991.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "18t x 15mm Wide Aluminum Pulley (HTD 5mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "1/2\" hex",
+        "1/2hex",
+        "18t",
+        "wcp-0991"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "20T HTD5 Pulley, SplineXS (WCP-2259)",
+      "sku": "WCP-2259",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2259.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-htd-timing-pulleys",
+      "description": "20t x 15mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "splinexs",
+        "20t",
+        "wcp-2259"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "24T HTD5 Pulley, 1/2\" Hex (WCP-0992)",
+      "sku": "WCP-0992",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0992.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "24t x 15mm Wide Aluminum Pulley (HTD 5mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "1/2\" hex",
+        "1/2hex",
+        "24t",
+        "wcp-0992"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "24T HTD5 Pulley, SplineXS (WCP-2260)",
+      "sku": "WCP-2260",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2260.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-htd-timing-pulleys",
+      "description": "24t x 15mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "splinexs",
+        "24t",
+        "wcp-2260"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "30T HTD5 Pulley, 1/2\" Hex (WCP-0993)",
+      "sku": "WCP-0993",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0993.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "30t x 15mm Wide Aluminum Pulley (HTD 5mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "1/2\" hex",
+        "1/2hex",
+        "30t",
+        "wcp-0993"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "30T HTD5 Pulley, SplineXS (WCP-2261)",
+      "sku": "WCP-2261",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2261.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-htd-timing-pulleys",
+      "description": "30t x 15mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "splinexs",
+        "30t",
+        "wcp-2261"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "36T HTD5 Pulley, 1/2\" Hex (WCP-0994)",
+      "sku": "WCP-0994",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0994.step",
+      "productUrl": "https://wcproducts.com/products/htd-timing-pulleys",
+      "description": "36t x 15mm Wide Aluminum Pulley (HTD 5mm, 1/2\" Hex Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "1/2\" hex",
+        "1/2hex",
+        "36t",
+        "wcp-0994"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Pulleys/HTD5 15mm Wide",
+      "name": "36T HTD5 Pulley, SplineXS (WCP-2262)",
+      "sku": "WCP-2262",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2262.step",
+      "productUrl": "https://wcproducts.com/products/splinexs-htd-timing-pulleys",
+      "description": "36t x 15mm Wide Aluminum Pulley (HTD 5mm, 8mm SplineXS Bore)",
+      "tags": [
+        "pulley",
+        "timing",
+        "belt",
+        "htd5",
+        "htd",
+        "15mm",
+        "splinexs",
+        "36t",
+        "wcp-2262"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "10T Steel Hub Sprocket, 8mm Key (WCP-1419)",
+      "sku": "WCP-1419",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1419.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "10t Steel Double Hub Sprocket (#25 Chain, 8mm Key Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "steel",
+        "hub",
+        "8mm key",
+        "8mmkey",
+        "10t",
+        "wcp-1419"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "10T Steel Hub Sprocket, Falcon (WCP-0582)",
+      "sku": "WCP-0582",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0582.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "10t Steel Double Hub Sprocket (#25 Chain, Falcon Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "steel",
+        "hub",
+        "falcon",
+        "10t",
+        "wcp-0582"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "10T Steel Hub Sprocket, SplineXS (WCP-1019)",
+      "sku": "WCP-1019",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1019.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "10t Steel Double Hub Sprocket (#25 Chain, 8mm SplineXS Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "steel",
+        "hub",
+        "splinexs",
+        "10t",
+        "wcp-1019"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "12T Steel Hub Sprocket, 1/2\" Rounded Hex (WCP-0576)",
+      "sku": "WCP-0576",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0576.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "12t Steel Double Hub Sprocket (#25 Chain, 1/2\" Rounded Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "steel",
+        "hub",
+        "1/2\" rounded hex",
+        "1/2hex-r",
+        "12t",
+        "wcp-0576"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "12T Steel Hub Sprocket, SplineXS (WCP-1020)",
+      "sku": "WCP-1020",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1020.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "12t Steel Double Hub Sprocket (#25 Chain, 8mm SplineXS Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "steel",
+        "hub",
+        "splinexs",
+        "12t",
+        "wcp-1020"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "14T Steel Hub Sprocket, 1/2\" Hex (WCP-0577)",
+      "sku": "WCP-0577",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0577.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "14t Steel Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "steel",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "14t",
+        "wcp-0577"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "16T Aluminum Hub Sprocket, 1/2\" Hex (WCP-0087)",
+      "sku": "WCP-0087",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0087.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "16t Aluminum Hub Double Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "16t",
+        "wcp-0087"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "16T Aluminum Hub Sprocket, 1/2\" Hex (WCP-0558)",
+      "sku": "WCP-0558",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0558.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "16t Aluminum Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "16t",
+        "wcp-0558"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "16T Steel Hub Sprocket, 1/2\" Hex (WCP-0578)",
+      "sku": "WCP-0578",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0578.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "16t Steel Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "steel",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "16t",
+        "wcp-0578"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "17T Aluminum Hub Sprocket, 1/2\" Hex (WCP-0088)",
+      "sku": "WCP-0088",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0088.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "17t Aluminum Hub Double Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "17t",
+        "wcp-0088"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "17T Aluminum Hub Sprocket, 1/2\" Hex (WCP-0579)",
+      "sku": "WCP-0579",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0579.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "17t Aluminum Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "17t",
+        "wcp-0579"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "18T Aluminum Hub Sprocket, 1/2\" Hex (WCP-0089)",
+      "sku": "WCP-0089",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0089.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "18t Aluminum Hub Double Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "18t",
+        "wcp-0089"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "18T Aluminum Hub Sprocket, 1/2\" Hex (WCP-0559)",
+      "sku": "WCP-0559",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0559.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "18t Aluminum Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "18t",
+        "wcp-0559"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "20T Aluminum Hub Sprocket, 1/2\" Hex (WCP-0580)",
+      "sku": "WCP-0580",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0580.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "20t Aluminum Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "20t",
+        "wcp-0580"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "22T Aluminum Hub Sprocket, 1/2\" Hex (WCP-0560)",
+      "sku": "WCP-0560",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0560.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "22t Aluminum Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "22t",
+        "wcp-0560"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "24T Aluminum Hub Sprocket, 1/2\" Hex (WCP-0581)",
+      "sku": "WCP-0581",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0581.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "24t Aluminum Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "24t",
+        "wcp-0581"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "24T Aluminum Plate Sprocket, SplineXL (WCP-0964)",
+      "sku": "WCP-0964",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0964.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "24t Aluminum Plate Sprocket (#25 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "24t",
+        "wcp-0964"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "26T Aluminum Hub Sprocket, 1/2\" Hex (WCP-2101)",
+      "sku": "WCP-2101",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2101.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "26t Aluminum Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "26t",
+        "wcp-2101"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "28T Aluminum Hub Sprocket, 1/2\" Hex (WCP-2102)",
+      "sku": "WCP-2102",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2102.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "28t Aluminum Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "28t",
+        "wcp-2102"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "30T Aluminum Hub Sprocket, 1/2\" Hex (WCP-2103)",
+      "sku": "WCP-2103",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2103.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "30t Aluminum Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "30t",
+        "wcp-2103"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "30T Aluminum Plate Sprocket, SplineXL (WCP-0965)",
+      "sku": "WCP-0965",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0965.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "30t Aluminum Plate Sprocket (#25 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "30t",
+        "wcp-0965"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "32T Aluminum Hub Sprocket, 1/2\" Hex (WCP-2104)",
+      "sku": "WCP-2104",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2104.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "32t Aluminum Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "32t",
+        "wcp-2104"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "34T Aluminum Hub Sprocket, 1/2\" Hex (WCP-2105)",
+      "sku": "WCP-2105",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2105.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "34t Aluminum Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "34t",
+        "wcp-2105"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "36T Aluminum Hub Sprocket, 1/2\" Hex (WCP-2106)",
+      "sku": "WCP-2106",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-2106.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "36t Aluminum Double Hub Sprocket (#25 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "36t",
+        "wcp-2106"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "36T Aluminum Plate Sprocket, SplineXL (WCP-0966)",
+      "sku": "WCP-0966",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0966.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "36t Aluminum Plate Sprocket (#25 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "36t",
+        "wcp-0966"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "42T Aluminum Plate Sprocket, SplineXL (WCP-0967)",
+      "sku": "WCP-0967",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0967.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "42t Aluminum Plate Sprocket (#25 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "42t",
+        "wcp-0967"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "48T Aluminum Plate Sprocket, SplineXL (WCP-0968)",
+      "sku": "WCP-0968",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0968.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "48t Aluminum Plate Sprocket (#25 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "48t",
+        "wcp-0968"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "54T Aluminum Plate Sprocket, SplineXL (WCP-0969)",
+      "sku": "WCP-0969",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0969.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "54t Aluminum Plate Sprocket (#25 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "54t",
+        "wcp-0969"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "60T Aluminum Plate Sprocket, SplineXL (WCP-0970)",
+      "sku": "WCP-0970",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0970.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "60t Aluminum Plate Sprocket (#25 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "60t",
+        "wcp-0970"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "66T Aluminum Plate Sprocket, SplineXL (WCP-0971)",
+      "sku": "WCP-0971",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0971.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "66t Aluminum Plate Sprocket (#25 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "66t",
+        "wcp-0971"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "72T Aluminum Plate Sprocket, SplineXL (WCP-0972)",
+      "sku": "WCP-0972",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0972.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "72t Aluminum Plate Sprocket (#25 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "72t",
+        "wcp-0972"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#25 Chain",
+      "name": "84T Aluminum Plate Sprocket, SplineXL (WCP-1376)",
+      "sku": "WCP-1376",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1376.step",
+      "productUrl": "https://wcproducts.com/products/25-sprockets",
+      "description": "84t Aluminum Plate Sprocket (#25 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#25",
+        "25",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "84t",
+        "wcp-1376"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "9T Steel Hub Sprocket, 1/2\" Rounded Hex (WCP-0976)",
+      "sku": "WCP-0976",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0976.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "9t Steel Double Hub Sprocket (#35 Chain, 1/2\" Rounded Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "steel",
+        "hub",
+        "1/2\" rounded hex",
+        "1/2hex-r",
+        "9t",
+        "wcp-0976"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "12T Aluminum Hub Sprocket, 1/2\" Hex (WCP-0973)",
+      "sku": "WCP-0973",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0973.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "12t Aluminum Double Hub Sprocket (#35 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "12t",
+        "wcp-0973"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "12T Steel Hub Sprocket, 1/2\" Hex (WCP-0977)",
+      "sku": "WCP-0977",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0977.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "12t Steel Double Hub Sprocket (#35 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "steel",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "12t",
+        "wcp-0977"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "15T Aluminum Hub Sprocket, 1/2\" Hex (WCP-0974)",
+      "sku": "WCP-0974",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0974.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "15t Aluminum Double Hub Sprocket (#35 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "15t",
+        "wcp-0974"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "15T Steel Hub Sprocket, 1/2\" Hex (WCP-0978)",
+      "sku": "WCP-0978",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0978.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "15t Steel Double Hub Sprocket (#35 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "steel",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "15t",
+        "wcp-0978"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "18T Aluminum Hub Sprocket, 1/2\" Hex (WCP-0975)",
+      "sku": "WCP-0975",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0975.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "18t Aluminum Double Hub Sprocket (#35 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "18t",
+        "wcp-0975"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "18T Aluminum Plate Sprocket, SplineXL (WCP-0980)",
+      "sku": "WCP-0980",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0980.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "18t Aluminum Plate Sprocket (#35 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "18t",
+        "wcp-0980"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "18T Steel Hub Sprocket, 1/2\" Hex (WCP-0979)",
+      "sku": "WCP-0979",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0979.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "18t Steel Double Hub Sprocket (#35 Chain, 1/2\" Hex Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "steel",
+        "hub",
+        "1/2\" hex",
+        "1/2hex",
+        "18t",
+        "wcp-0979"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "24T Aluminum Plate Sprocket, SplineXL (WCP-0981)",
+      "sku": "WCP-0981",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0981.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "24t Aluminum Plate Sprocket (#35 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "24t",
+        "wcp-0981"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "30T Aluminum Plate Sprocket, SplineXL (WCP-0982)",
+      "sku": "WCP-0982",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0982.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "30t Aluminum Plate Sprocket (#35 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "30t",
+        "wcp-0982"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "36T Aluminum Plate Sprocket, SplineXL (WCP-0983)",
+      "sku": "WCP-0983",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0983.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "36t Aluminum Plate Sprocket (#35 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "36t",
+        "wcp-0983"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "42T Aluminum Plate Sprocket, SplineXL (WCP-0984)",
+      "sku": "WCP-0984",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0984.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "42t Aluminum Plate Sprocket (#35 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "42t",
+        "wcp-0984"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "48T Aluminum Plate Sprocket, SplineXL (WCP-0985)",
+      "sku": "WCP-0985",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0985.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "48t Aluminum Plate Sprocket (#35 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "48t",
+        "wcp-0985"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "54T Aluminum Plate Sprocket, SplineXL (WCP-0986)",
+      "sku": "WCP-0986",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0986.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "54t Aluminum Plate Sprocket (#35 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "54t",
+        "wcp-0986"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "60T Aluminum Plate Sprocket, SplineXL (WCP-0987)",
+      "sku": "WCP-0987",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0987.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "60t Aluminum Plate Sprocket (#35 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "60t",
+        "wcp-0987"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "66T Aluminum Plate Sprocket, SplineXL (WCP-0988)",
+      "sku": "WCP-0988",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0988.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "66t Aluminum Plate Sprocket (#35 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "66t",
+        "wcp-0988"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "72T Aluminum Plate Sprocket, SplineXL (WCP-0989)",
+      "sku": "WCP-0989",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0989.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "72t Aluminum Plate Sprocket (#35 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "72t",
+        "wcp-0989"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Sprockets/#35 Chain",
+      "name": "84T Aluminum Plate Sprocket, SplineXL (WCP-1377)",
+      "sku": "WCP-1377",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-1377.step",
+      "productUrl": "https://wcproducts.com/products/35-sprockets",
+      "description": "84t Aluminum Plate Sprocket (#35 Chain, SplineXL Bore)",
+      "tags": [
+        "sprocket",
+        "chain",
+        "#35",
+        "35",
+        "aluminum",
+        "plate",
+        "splinexl",
+        "84t",
+        "wcp-1377"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Motors",
+      "name": "Kraken X60 (WCP-0940)",
+      "sku": "WCP-0940",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0940.STEP",
+      "productUrl": "https://wcproducts.com/products/kraken",
+      "description": "Kraken X60 brushless motor with integrated TalonFX, 60mm frame, SplineXS shaft",
+      "tags": [
+        "motor",
+        "kraken",
+        "x60",
+        "talonfx",
+        "brushless",
+        "splinexs",
+        "ctre",
+        "wcp-0940"
+      ]
+    },
+    {
+      "vendor": "WCP",
+      "category": "Motors",
+      "name": "Kraken X44 (WCP-0941)",
+      "sku": "WCP-0941",
+      "url": "https://wcproducts.info/files/frc/cad/WCP-0941.STEP",
+      "productUrl": "https://wcproducts.com/products/kraken",
+      "description": "Kraken X44 brushless motor with integrated TalonFX, 44mm frame, SplineXS shaft",
+      "tags": [
+        "motor",
+        "kraken",
+        "x44",
+        "talonfx",
+        "brushless",
+        "splinexs",
+        "ctre",
+        "wcp-0941"
+      ]
+    },
+    {
+      "vendor": "REV",
+      "category": "Motors",
+      "name": "NEO Vortex with SPARK Flex, 8mm Shaft (REV-21-1652)",
+      "sku": "REV-21-1652",
+      "url": "https://www.revrobotics.com/content/cad/NEO-Vortex-Moter-and-SPARK-Flex-Motor-Controller-with-8mm-Shaft.STEP",
+      "productUrl": "https://www.revrobotics.com/rev-21-1652/",
+      "description": "NEO Vortex brushless motor with SPARK Flex docked (REV-11-2159), 8mm keyed shaft. REV only publishes the combined model.",
+      "tags": [
+        "motor",
+        "neo",
+        "vortex",
+        "spark flex",
+        "brushless",
+        "8mm key",
+        "rev-21-1652",
+        "rev-11-2159"
+      ]
+    },
+    {
+      "vendor": "REV",
+      "category": "Electronics",
+      "name": "Power Distribution Hub (REV-11-1850)",
+      "sku": "REV-11-1850",
+      "url": "https://www.revrobotics.com/content/cad/REV-11-1850.STEP",
+      "productUrl": "https://www.revrobotics.com/rev-11-1850/",
+      "description": "REV Power Distribution Hub: 20 high-current + 3 low-current channels, CAN",
+      "tags": [
+        "pdh",
+        "power distribution",
+        "power",
+        "electronics",
+        "rev-11-1850"
+      ]
+    },
+    {
+      "vendor": "CTRE",
+      "category": "Electronics",
+      "name": "PDP 2.0 Power Distribution Panel",
+      "sku": "24-806880",
+      "url": "https://raw.githubusercontent.com/CrossTheRoadElec/Device-CADs/master/PDP2.0_CAD/PDP_2.0_release.STEP",
+      "productUrl": "https://store.ctr-electronics.com/products/pdp-2",
+      "description": "CTRE Power Distribution Panel 2.0, 24 ATO breaker slots",
+      "tags": [
+        "pdp",
+        "pdp 2.0",
+        "power distribution",
+        "power",
+        "electronics",
+        "ctre"
+      ]
+    },
+    {
+      "vendor": "Limelight",
+      "category": "Vision",
+      "name": "Limelight 4",
+      "sku": "LL4",
+      "url": "https://downloads.limelightvision.io/cad/LIMELIGHT4CAD_STEP.stp",
+      "productUrl": "https://docs.limelightvision.io/docs/resources/downloads",
+      "description": "Limelight 4 smart vision camera",
+      "tags": [
+        "limelight",
+        "ll4",
+        "camera",
+        "vision",
+        "sensor"
+      ]
+    },
+    {
+      "vendor": "Limelight",
+      "category": "Vision",
+      "name": "Limelight 3G",
+      "sku": "LL3G",
+      "url": "https://downloads.limelightvision.io/cad/LIMELIGHT3GCAD_STEP.stp",
+      "productUrl": "https://docs.limelightvision.io/docs/resources/downloads",
+      "description": "Limelight 3G smart vision camera (global shutter)",
+      "tags": [
+        "limelight",
+        "ll3g",
+        "camera",
+        "vision",
+        "sensor"
+      ]
+    },
+    {
+      "vendor": "Limelight",
+      "category": "Vision",
+      "name": "Limelight 3",
+      "sku": "LL3",
+      "url": "https://downloads.limelightvision.io/cad/LIMELIGHT3CAD_STEP.stp",
+      "productUrl": "https://docs.limelightvision.io/docs/resources/downloads",
+      "description": "Limelight 3 smart vision camera",
+      "tags": [
+        "limelight",
+        "ll3",
+        "camera",
+        "vision",
+        "sensor"
+      ]
+    }
+  ]
+}
