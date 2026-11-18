@@ -27,17 +27,30 @@ The task pane uses the same theme as the other BTR apps:
 
 Like the web apps, it follows the Windows light/dark setting automatically. To force Light or Dark, click **⋯ › Theme**.
 
-## Build & install (one time, on the SOLIDWORKS PC)
+## Install (students)
 
-1. Install **Visual Studio 2022** with the **.NET desktop development** workload.
-2. Open `src/BtrLibrary.csproj` and build in **Release**.
-   - If SOLIDWORKS isn't installed in `C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS`, change
-     `SwApiDir` in the `.csproj` file.
-3. Right-click `scripts/install.bat` and choose **Run as administrator**.
-4. Restart SOLIDWORKS. If the tab doesn't appear, check **Tools › Add-Ins › BTR Library**.
+1. Go to [Releases](https://github.com/ButlerTechRobotics/btr-library/releases/latest) and download
+   **BTR-Library-Setup-&lt;version&gt;.exe**.
+2. Close SOLIDWORKS, run the installer, and approve the admin prompt.
+3. Start SOLIDWORKS and open the **BTR** tab in the Task Pane on the right.
+   If it isn't there, turn on **BTR Library** under **Tools › Add-Ins**.
 
-To remove the add-in, close SOLIDWORKS and run `scripts/uninstall.bat` as administrator.
-After you rebuild, close SOLIDWORKS first, because it locks the DLL. You don't need to register it again.
+When a new version comes out, the pane shows an orange **Update available** link: download it and run it the same way.
+To remove the add-in, uninstall **BTR Library for SOLIDWORKS** from Windows Settings › Apps.
+
+## Building and releasing (maintainers)
+
+You need a PC with SOLIDWORKS 2026 (the build uses its API files), the .NET SDK and [Inno Setup 6](https://jrsoftware.org/isdl.php).
+Visual Studio is optional.
+
+- **Release:** bump `<Version>` in `src/BtrLibrary.csproj`, commit and push, then run
+  `.\scripts\release.ps1 -Publish`. It builds the add-in and the installer, and attaches the installer to a new GitHub release.
+  Without `-Publish` it only builds `dist\BTR-Library-Setup-<version>.exe`.
+- **Parts:** don't need a release. Edit `manifest/library.json` and push (see Sync below).
+- **Developing:** build with `dotnet build src\BtrLibrary.csproj -c Release` (close SOLIDWORKS first, it locks the DLL)
+  and register the build folder once with `scripts\install.bat` (run as administrator). If SOLIDWORKS isn't in
+  `C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS`, change `SwApiDir` in the `.csproj`.
+  Installing a release afterwards re-points SOLIDWORKS at the installed copy, and the other way around.
 
 ## Parts come pre-loaded (Sync)
 

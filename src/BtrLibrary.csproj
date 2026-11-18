@@ -12,7 +12,7 @@
     <AssemblyName>BtrLibrary</AssemblyName>
     <LangVersion>latest</LangVersion>
     <Nullable>disable</Nullable>
-    <Version>0.2.0</Version>
+    <Version>0.3.0</Version>
     <Product>BTR Library for SOLIDWORKS</Product>
     <Description>Browse, search and insert FRC COTS parts from a shared library folder.</Description>
     <SwApiDir>C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\api\redist</SwApiDir>

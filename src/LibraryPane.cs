@@ -59,6 +59,8 @@ namespace BtrLibrary
         private readonly Panel _footer = new Panel();
         private readonly Label _status = new Label();
         private readonly LinkLabel _root = new LinkLabel();
+        private readonly LinkLabel _update = new LinkLabel { Visible = false };
+        private string _updateUrl;
 
         private readonly System.Windows.Forms.Timer _debounce = new System.Windows.Forms.Timer { Interval = 200 };
         private bool _fillingDetails, _buildingPreviews;
@@ -83,6 +85,7 @@ namespace BtrLibrary
                 SetCueBanner(_search, "Search parts (kraken, 24t, wcp-0736…)");
                 Reload();
                 if (Settings.AutoSync && !_autoSyncDone) { _autoSyncDone = true; StartSync(quiet: true); }
+                CheckForUpdate();
             };
 
             Theme.Changed += OnThemeChanged;
@@ -222,8 +225,15 @@ namespace BtrLibrary
             _root.Font = BtrFonts.Cond(9f);
             _root.LinkBehavior = LinkBehavior.HoverUnderline;
             _tips.SetToolTip(_root, "Click to choose the library folder");
-            footerRows.Controls.Add(_status, 0, 0);
-            footerRows.Controls.Add(_root, 0, 1);
+            _update.AutoSize = true;
+            _update.Font = BtrFonts.UiMedium(9.5f);
+            _update.LinkBehavior = LinkBehavior.HoverUnderline;
+            _update.Margin = new Padding(0, 0, 0, 3);
+            _update.LinkClicked += (s, e) => { if (_updateUrl != null) Process.Start(_updateUrl); };
+            _tips.SetToolTip(_update, "Download the new installer (close SOLIDWORKS before running it)");
+            footerRows.Controls.Add(_update, 0, 0);
+            footerRows.Controls.Add(_status, 0, 1);
+            footerRows.Controls.Add(_root, 0, 2);
             _footer.Dock = DockStyle.Bottom;
             _footer.AutoSize = true;
             _footer.Padding = new Padding(12, 6, 12, 8);
@@ -369,6 +379,7 @@ namespace BtrLibrary
             _title.ForeColor = p.Ink;
             _sub.ForeColor = p.Ink2;
             _desc.ForeColor = p.Ink2;
+            _update.LinkColor = _update.ActiveLinkColor = _update.VisitedLinkColor = p.Accent;
             foreach (var l in new[] { _url, _root })
             {
                 l.LinkColor = p.Blue;
@@ -830,6 +841,27 @@ namespace BtrLibrary
                     if (r.Failures.Count > 0 && !quiet)
                         MessageBox.Show(this, "Some parts couldn't be downloaded:\n\n" + string.Join("\n", r.Failures.Take(15)),
                             "BTR Library", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }));
+            });
+        }
+
+        private bool _updateChecked;
+
+        /// <summary>Shows "Update available" in the footer if GitHub has a newer release (checked once per session).</summary>
+        private void CheckForUpdate()
+        {
+            if (_updateChecked) return;
+            _updateChecked = true;
+            Updates.CheckAsync().ContinueWith(t =>
+            {
+                var found = t.Status == TaskStatus.RanToCompletion ? t.Result : null;
+                if (found == null || IsDisposed || !IsHandleCreated) return;
+                BeginInvoke((Action)(() =>
+                {
+                    _updateUrl = found.Item2;
+                    _update.Text = $"Update available: BTR Library {found.Item1.ToString(3)}. Download";
+                    _update.LinkArea = new LinkArea(0, _update.Text.Length);
+                    _update.Visible = true;
                 }));
             });
         }

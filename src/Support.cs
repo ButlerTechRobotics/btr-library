@@ -2,7 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
+using System.Net;
+using System.Net.Http;
 using System.Runtime.InteropServices;
+using System.Runtime.Serialization;
+using System.Runtime.Serialization.Json;
+using System.Threading.Tasks;
 using Microsoft.Win32;
 
 namespace BtrLibrary
@@ -121,6 +126,57 @@ namespace BtrLibrary
 
         [DllImport("gdi32.dll")]
         private static extern bool DeleteObject(IntPtr hObject);
+    }
+
+    /// <summary>Checks GitHub Releases for a newer BTR Library installer (best effort, once per session).</summary>
+    public static class Updates
+    {
+        public const string LatestReleaseApi = "https://api.github.com/repos/ButlerTechRobotics/btr-library/releases/latest";
+
+        [DataContract]
+        private sealed class Release
+        {
+            [DataMember(Name = "tag_name")] public string Tag { get; set; }
+            [DataMember(Name = "html_url")] public string Url { get; set; }
+            [DataMember(Name = "draft")] public bool Draft { get; set; }
+            [DataMember(Name = "prerelease")] public bool Prerelease { get; set; }
+        }
+
+        public static Version Current => typeof(Updates).Assembly.GetName().Version;
+
+        /// <summary>Returns (version, release page URL) if GitHub has a newer release, otherwise null. Never throws.</summary>
+        public static async Task<Tuple<Version, string>> CheckAsync()
+        {
+            try
+            {
+                ServicePointManager.SecurityProtocol |= SecurityProtocolType.Tls12;
+                using (var http = new HttpClient { Timeout = TimeSpan.FromSeconds(15) })
+                {
+                    http.DefaultRequestHeaders.UserAgent.ParseAdd("BtrLibrary-SolidWorks/" + Current);
+                    http.DefaultRequestHeaders.Accept.ParseAdd("application/vnd.github+json");
+                    var bytes = await http.GetByteArrayAsync(LatestReleaseApi).ConfigureAwait(false);
+                    Release r;
+                    using (var ms = new MemoryStream(bytes))
+                        r = (Release)new DataContractJsonSerializer(typeof(Release)).ReadObject(ms);
+                    if (r == null || r.Draft || r.Prerelease || string.IsNullOrEmpty(r.Tag)) return null;
+                    if (!Version.TryParse(r.Tag.TrimStart('v', 'V'), out var latest)) return null;
+                    return IsNewer(latest, Current) ? Tuple.Create(latest, r.Url) : null;
+                }
+            }
+            catch
+            {
+                return null; // offline, rate-limited, no releases yet: just don't show anything
+            }
+        }
+
+        /// <summary>Compares major.minor.build, treating missing parts as 0 (so "0.3.0" equals assembly 0.3.0.0).</summary>
+        public static bool IsNewer(Version a, Version b)
+        {
+            int P(int x) => x < 0 ? 0 : x;
+            var x1 = new Version(a.Major, a.Minor, P(a.Build));
+            var x2 = new Version(b.Major, b.Minor, P(b.Build));
+            return x1 > x2;
+        }
     }
 
     /// <summary>"Explorer-style" sort so 8T comes before 12T.</summary>

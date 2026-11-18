@@ -20,7 +20,8 @@ src/
   Support.cs          Settings (HKCU\Software\BtrLibrary), thumbnails, natural sort, icons, embedded assets
   Assets/             brand_10/15/20.png, icon_*.png, Fonts/*.ttf (Barlow, SIL OFL). Embedded with LogicalName = file name.
 manifest/library.json Team parts list (copied next to the DLL at build). 355 parts: WCP gears/pulleys/sprockets/bearings/chain + motors, PDH/PDP 2.0, Limelights.
-scripts/              install.bat / uninstall.bat (RegAsm /codebase, run as admin), New-FrcLibrary.ps1
+scripts/              release.ps1 (build + installer + GitHub release), install.bat / uninstall.bat (dev RegAsm), New-FrcLibrary.ps1
+installer/            BtrLibrary.iss (Inno Setup 6)
 ```
 
 ## Build / install / test loop
@@ -32,6 +33,12 @@ scripts/              install.bat / uninstall.bat (RegAsm /codebase, run as admi
    Re-run only if the build output path changes (folder moved). Rebuilding in place needs no re-register.
 4. Start SOLIDWORKS 2026 → Task Pane → BTR tab. Crash logs: `%LOCALAPPDATA%\SolidWorks\CXPD\<session>\`
    (the `.log` lists `<AD2> LOAD_ADDIN` lines and an `<AD5>` recent-API-call trace on crashes).
+
+Releases: `scripts\release.ps1 [-Publish]` → `dotnet build` + Inno Setup (`installer\BtrLibrary.iss`) →
+`dist\BTR-Library-Setup-<ver>.exe` (+ `gh release create v<ver>`). Version = `<Version>` in the csproj. The installer
+goes to Program Files and runs the same RegAsm /codebase; `Updates.CheckAsync` (Support.cs) reads GitHub
+releases/latest and the pane shows "Update available". CI can't build: the SOLIDWORKS interop DLLs only exist on a
+SOLIDWORKS PC (they ship inside the installer from api\redist, but aren't committed).
 
 Machine: Windows 11, SOLIDWORKS 2026 SP5.2 at `C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS`,
 two monitors (144 and 96 DPI), Avast installed.
